@@ -21,7 +21,7 @@ Simply add content and KDScrollView handles the rest.
 <img src="https://raw.githubusercontent.com/justKD/KDKit/master/example_images/3_scrollview_code.png" alt="drawing" width="600" />
 
 ### Add Gesture Recognition
-KDViews own methods for adding and managing their own gesture recognition.
+KDView owns methods for adding and managing their own gesture recognition.
 
 <img src="https://raw.githubusercontent.com/justKD/KDKit/master/example_images/4_addtap_code.png" alt="drawing" width="600" />
 
