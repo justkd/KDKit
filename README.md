@@ -41,13 +41,13 @@ KDKit also includes an animation scripting syntax and a growing library of pre-b
 
 ### Pure Data and libPD
 
-Adding and using Pure Data patches has never been easier.
+Adding and using Pure Data patches has never been easier...
 <img src="https://raw.githubusercontent.com/justKD/KDKit/master/example_images/8_pd_code.png" alt="drawing" width="600" />
 
 <img src="https://raw.githubusercontent.com/justKD/KDKit/master/example_images/9_pd_code.png" alt="drawing" width="600" />
 
 ### AudioKit
-Neither has creating and managing an orchestra of AudioKit instruments.
+... and neither has creating and managing an orchestra of AudioKit instruments.
 
 <img src="https://raw.githubusercontent.com/justKD/KDKit/master/example_images/10_audiokit.png" alt="drawing" width="600" />
 
