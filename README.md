@@ -52,6 +52,6 @@ Neither has creating and managing an orchestra of AudioKit instruments.
 <img src="https://raw.githubusercontent.com/justKD/KDKit/master/example_images/10_audiokit.png" alt="drawing" width="600" />
 
 ### Plist
-Quickly and easily manage simply persistent state without the hassle of Core Data. KDPlist exposes a simple API for creating basic persistent data stores.
+Quickly and easily manage simple persistent state without the hassle of Core Data. KDPlist exposes a simple API for creating basic persistent data stores.
 
-<img src="https://raw.githubusercontent.com/justKD/KDKit/master/example_images/11_plist_code.png" alt="drawing" width="600" />
+<img src="https://raw.githubusercontent.com/justKD/KDKit/master/example_images/11_plist_code.png" alt="drawing" width="650" />
