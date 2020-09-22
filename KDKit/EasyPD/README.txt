@@ -1,6 +1,6 @@
 EasyPD
 
-Copyright (c) 2015 notnatural.co.
+Copyright (c) 2015-present justKD.
 Licensed under the MIT license.
 
 EasyPD is a high level abstraction to streamline the use of LIBPD in iOS projects.

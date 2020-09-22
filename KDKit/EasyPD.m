@@ -2,13 +2,11 @@
 //  EasyPD.m
 //  EasyPD
 //
-//  Copyright (c) 2015 notnatural.co.
-//
 
 /*
 The MIT License (MIT)
 
-Copyright (c) 2015 Danny Holmes, notnatural.co.
+Copyright (c) 2015-present justKD.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
